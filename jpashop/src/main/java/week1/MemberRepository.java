@@ -1,4 +1,4 @@
-package jpabook.jpashop;
+package week1;
 
 import org.springframework.stereotype.Repository;
 
